@@ -10,9 +10,8 @@ h1 {
 }
 
 ul {
-    list-style: none;
     width: 200px;
-    margin: 20px auto;
+    margin: 20px 0 20px 40px;
     padding: 0;
 }
 
